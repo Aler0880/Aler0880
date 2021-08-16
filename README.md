@@ -1,16 +1,14 @@
 ### Hi there 👋
+- I’m currently learning Python
+- I’m looking to collaborate on machine learning and AI
+- How to reach me: ppland@mail.ru
 
 <!--
-**Aler0880/Aler0880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aler0880/Aler0880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on machine learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ppland@mail.ru
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
